@@ -1,7 +1,9 @@
-# Ohio FGC Website
+# Pennsylvania FGC Website
 
-The Ohio Fighting Game Community is pretty large and separated.  The amount of times I run into new players and they say they couldn't find any information about the scene is way more than it should be.  So this website is an attempt to help consolidate information to make it easier for people to find the events and players near them.
+Finding fighting game events in the state of Pennsylvania can be difficult. The majors cities of Pittsburgh and Philadelphia are more than five hours away by car and every city in between lacks a strong voice to promote their events. Following the example of the Ohio FGC, this website serves as a central hub for players in the state of Pennsylvania to find out about the fighting game communities in their local areas and have reliable information on where to find events.
 
-If you think something should be added to the site, get in contact with me here or on [twitter](https://twitter.com/codecory).
+If you think something should be added to the site, get in contact with me here, on Discord (ShaolinPretzels#8711), or on [Twitter](https://twitter.com/shaolinpretzels).
 
-You can view the site [here](https://ohiofgc.com)
+You can view the site [here](https://PAFGC.github.io)
+
+Special thanks to [Corjam](https://twitter.com/codecory) and his work on [ohiofgc.com](https://ohiofgc.com), which serves as the template for our own website.
