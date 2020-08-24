@@ -53,3 +53,17 @@ header{
         display:block;
     }
 }
+
+.list-group-item {
+    color: blue;
+}
+.list-group-item:hover {
+    color: gold;
+}
+
+.footer-link {
+    color: blue;
+}
+.footer-link:hover {
+    color: gold;
+}
