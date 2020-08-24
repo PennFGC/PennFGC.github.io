@@ -4,6 +4,6 @@ Finding fighting game events in the state of Pennsylvania can be difficult. The 
 
 If you think something should be added to the site, get in contact with me here, on Discord (ShaolinPretzels#8711), or on [Twitter](https://twitter.com/shaolinpretzels).
 
-You can view the site [here](https://PAFGC.github.io)
+You can view the site [here](https://PennFGC.github.io)
 
 Special thanks to [Corjam](https://twitter.com/codecory) and his work on [ohiofgc.com](https://ohiofgc.com), which serves as the template for our own website.
