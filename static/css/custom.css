@@ -29,6 +29,10 @@ header{
     transform: scale(1.1);
 }
 
+.support-link:hover img{
+    transform: scale(1.1);
+}
+
 #twitch-embed{
     position: relative;
     padding-bottom: 56.25%;
