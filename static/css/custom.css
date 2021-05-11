@@ -71,3 +71,10 @@ header{
 .footer-link:hover {
     color: gold;
 }
+
+.bmc-btn-container {
+    text-align: center;
+}
+.bmc-btn {
+    text-align: left;
+}
